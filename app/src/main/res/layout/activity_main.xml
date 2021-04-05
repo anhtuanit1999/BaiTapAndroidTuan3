@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/imgV_SPC"
-        android:layout_width="301dp"
-        android:layout_height="340dp"
+        android:layout_width="225dp"
+        android:layout_height="277dp"
         android:layout_marginStart="51dp"
         android:layout_marginLeft="51dp"
         android:layout_marginTop="31dp"
